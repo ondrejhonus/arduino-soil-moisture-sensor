@@ -7,8 +7,11 @@ This is a simple project using an Arduino board to notify my with an LED when my
 - LED (probably a 330ohm resistor as well)
 
 ### Connections
-- Connect LED to D1
-- Connect moisture sensor to Analog0
+- Connect LED to D2
+- Connect moisture sensor to Analog 0 (A0)
+
+# Image for reference
+<img src="./img/photo_of_usage.jpg" width="25%"></img>
 
 # Usage
 1. Connect everything as it's supposed to be connected
